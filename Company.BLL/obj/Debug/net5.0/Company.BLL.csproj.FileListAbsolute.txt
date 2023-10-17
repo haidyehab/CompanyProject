@@ -1,0 +1,15 @@
+E:\project .net\Company.PL\Company.BLL\bin\Debug\net5.0\Company.BLL.deps.json
+E:\project .net\Company.PL\Company.BLL\bin\Debug\net5.0\Company.BLL.dll
+E:\project .net\Company.PL\Company.BLL\bin\Debug\net5.0\Company.BLL.pdb
+E:\project .net\Company.PL\Company.BLL\bin\Debug\net5.0\Comapny.DAL.dll
+E:\project .net\Company.PL\Company.BLL\bin\Debug\net5.0\Comapny.DAL.pdb
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.AssemblyReference.cache
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfoInputs.cache
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfo.cs
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CoreCompileInputs.cache
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CopyComplete
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.dll
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\refint\Company.BLL.dll
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\Company.BLL.pdb
+E:\project .net\Company.PL\Company.BLL\obj\Debug\net5.0\ref\Company.BLL.dll

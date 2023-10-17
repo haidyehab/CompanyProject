@@ -1,0 +1,12 @@
+E:\project .net\Company.PL\Comapny.DAL\bin\Debug\net6.0\Comapny.DAL.deps.json
+E:\project .net\Company.PL\Comapny.DAL\bin\Debug\net6.0\Comapny.DAL.dll
+E:\project .net\Company.PL\Comapny.DAL\bin\Debug\net6.0\Comapny.DAL.pdb
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.csproj.AssemblyReference.cache
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.AssemblyInfoInputs.cache
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.AssemblyInfo.cs
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.csproj.CoreCompileInputs.cache
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.dll
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\refint\Comapny.DAL.dll
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\Comapny.DAL.pdb
+E:\project .net\Company.PL\Comapny.DAL\obj\Debug\net6.0\ref\Comapny.DAL.dll
